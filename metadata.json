@@ -1,0 +1,8 @@
+{
+  "name": "LeafScan AI - Plant Disease Diagnostic System",
+  "description": "An advanced plant pathology application that uses Gemini AI to identify plant diseases from photos, providing detailed diagnostic reports, treatment plans, and prevention strategies.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
